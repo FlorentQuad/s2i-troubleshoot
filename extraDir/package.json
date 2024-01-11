@@ -4,7 +4,7 @@
   "description": "s2i example",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "run": "nodejs app.js"
   },
   "author": "",
   "license": "ISC"
