@@ -4,7 +4,7 @@
   "description": "s2i example",
   "main": "app.js",
   "scripts": {
-    "run": "nodejs app.js"
+    	"start": "node app.js"
   },
   "author": "",
   "license": "ISC"
